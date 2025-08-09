@@ -197,7 +197,7 @@ return {
                     {
 				        children = {
 				            {
-					            materials = { "vehicle/train/pr_s2/tender.mtl", },
+					            materials = { "vehicle/train/pr_s2/beweglich.mtl", },
 					            mesh = "vehicle/train/pr_s2/tender_lod0.msh",
 					            name = "rumpf_s1_tender",
 					            transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -221,19 +221,19 @@ return {
 					            transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 				            },
 				            {
-					            materials = { "vehicle/train/pr_s2/tender.mtl", },
+					            materials = { "vehicle/train/pr_s2/beweglich.mtl", },
 					            mesh = "vehicle/train/pr_s2/rad_tender_lod0.msh",
 					            name = "rumpf_s1_tender",
 					            transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -1.658, 0, 0.50463, 1, },
 				            },
 				            {
-					            materials = { "vehicle/train/pr_s2/tender.mtl", },
+					            materials = { "vehicle/train/pr_s2/beweglich.mtl", },
 					            mesh = "vehicle/train/pr_s2/rad_tender_lod0.msh",
 					            name = "rumpf_s1_tender",
 					            transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -0.015, 0, 0.50463, 1, },
 				            },
 				            {
-					            materials = { "vehicle/train/pr_s2/tender.mtl", },
+					            materials = { "vehicle/train/pr_s2/beweglich.mtl", },
 					            mesh = "vehicle/train/pr_s2/rad_tender_lod0.msh",
 					            name = "rumpf_s1_tender",
 					            transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.615, 0, 0.50463, 1, },
